@@ -1,0 +1,10 @@
+hm_1_short.csv LRU CacheSize 1 calls 57619 hits 1 hitRatio 1.73554e-05 readHits 0 readHitRatio 0 writeHits 1 writeHitRatio 1.73554e-05 evictedDirtyPage 13205
+hm_1_short.csv LRU CacheSize 1 calls 57619 hits 1 hitRatio 1.73554e-05 readHits 0 readHitRatio 0 writeHits 1 writeHitRatio 1.73554e-05 evictedDirtyPage 13205
+hm_1_short.csv ARC CacheSize 1 calls 57619 hits 42286 hitRatio 0.73389 readHits 37224 readHitRatio 0.646037 writeHits 5062 writeHitRatio 0.087853 evictedDirtyPage 0
+hm_1_short.csv ARC CacheSize 1 calls 57619 hits 31 hitRatio 0.000538017 readHits 24 readHitRatio 0.000416529 writeHits 7 writeHitRatio 0.000121488 evictedDirtyPage 29048
+hm_1_short.csv ARC CacheSize 1 calls 57619 hits 31 hitRatio 0.000538017 readHits 24 readHitRatio 0.000416529 writeHits 7 writeHitRatio 0.000121488 evictedDirtyPage 29048
+hm_1_short.csv ARC CacheSize 1 calls 57619 hits 31 hitRatio 0.000538017 readHits 24 readHitRatio 0.000416529 writeHits 7 writeHitRatio 0.000121488 evictedDirtyPage 29048
+hm_1_short.csv LRU CacheSize 1 calls 57619 hits 1 hitRatio 1.73554e-05 readHits 0 readHitRatio 0 writeHits 1 writeHitRatio 1.73554e-05 evictedDirtyPage 13205
+hm_1_short.csv LRU CacheSize 1 calls 57619 hits 1 hitRatio 1.73554e-05 readHits 0 readHitRatio 0 writeHits 1 writeHitRatio 1.73554e-05 evictedDirtyPage 13205
+hm_1_short.csv LRU CacheSize 1 calls 57619 hits 1 hitRatio 1.73554e-05 readHits 0 readHitRatio 0 writeHits 1 writeHitRatio 1.73554e-05 evictedDirtyPage 13205
+hm_1_short.csv ARC CacheSize 1 calls 57619 hits 31 hitRatio 0.000538017 readHits 24 readHitRatio 0.000416529 writeHits 7 writeHitRatio 0.000121488 evictedDirtyPage 29048
